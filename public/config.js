@@ -9,7 +9,8 @@ var Config = {
         "export_leanote",
         "export_evernote",
         "langs",
-        "accounts"
+        "accounts",
+        "md_theme"
     ],
     "langs": [
         {
@@ -33,6 +34,7 @@ var Config = {
             "name": "日本語"
         }
     ],
-    "lang": "en-us",
-    "theme": ""
+    "lang": "zh-cn",
+    "theme": "",
+    "mdTheme": "yimu"
 };
