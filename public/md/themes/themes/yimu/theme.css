@@ -550,4 +550,8 @@ pre.prettyprint .pln {
   color: #48484c;
 }
 
+#wmd-input {
+  font-size: 15px !important;
+}
+
 
